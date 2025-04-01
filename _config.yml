@@ -1,0 +1,28 @@
+title: "Chen Weller's GitHub Web"
+description: "Cancer Immunology | mRNA Translation | MHC Presentation"
+baseurl: "" 
+url: "https://chenweller.github.io" 
+theme: minima # look for other themes
+
+# Social links
+social:
+  twitter: "https://x.com/chen_weller"
+  bluesky: "https://bsky.app/profile/wellerchen.bsky.social"
+  linkedin: "https://www.linkedin.com/in/chen-weller-751696228/"
+
+# Navigation menu
+nav:
+  - title: "About"
+    url: "/"
+  - title: "Education"
+    url: "/education"
+  - title: "Skills"
+    url: "/skills"
+  - title: "Contact"
+    url: "/contact"
+
+# Plugins (optional, for extended functionality)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
