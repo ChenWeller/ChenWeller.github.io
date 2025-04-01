@@ -15,7 +15,7 @@ I am a direct Ph.D. candidate in the **Molecular Cell Biology Department** at th
 ## Connect with Me
 📫 **Email**: [chen.weller@weizmann.ac.il]    
 ✖️ **Twitter/X**: [@chen_weller]  
-🦋 **Bluesky**: [wellerchen.bsky.social] 
+🦋 **Bluesky**: [wellerchen.bsky.social]  
 💼 **LinkedIn**: [https://www.linkedin.com/in/chen-weller-751696228/]  
 
 
