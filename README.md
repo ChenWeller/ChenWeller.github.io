@@ -1,4 +1,3 @@
-# ChenWeller.github.io
 
 # 👋 Welcome to Chen Weller's GitHub!
 
