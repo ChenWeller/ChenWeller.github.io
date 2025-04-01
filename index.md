@@ -16,9 +16,10 @@ I am a Ph.D. student at the Weizmann Institute of Science, researching mRNA tran
 - **M.Sc. in Life Sciences** - Weizmann Institute of Science  
 - **B.Sc. in Nutrition Science** - Hebrew University of Jerusalem  
 
-## Skills  
-- **Lab Techniques**: Cell culture, flow cytometry, immunopeptidomics  
-- **Programming**: R (advanced), Python (basic), Linux  
+## Research & Skills
+- **Techniques**: Immunopeptidomics, CRISPR genome editing, functional T-cell assays, next-generation sequencing
+- **Data Analysis**: Statistical modeling, survival analysis, computational mass spectrometry
+- **Computational Focus**: Developing tools to dissect the cancer cell **immunopeptidome**  
 
 ## Contact  
 📧 chen.weller@weizmann.ac.il  
